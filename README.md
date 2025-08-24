@@ -167,3 +167,7 @@ Conclusion
 This project successfully demonstrates the integration of a public API with Python for real-time data fetching and the creation of meaningful visualizations. By combining API integration with data visualization techniques, the project not only satisfies the requirements of Internship Task – 1 but also provides a practical foundation for real-world applications. Weather forecasting is one of the most commonly used services across mobile and web platforms, and this implementation mirrors how such services work internally.
 
 Overall, this project highlights the importance of combining backend data integration with frontend visualization to deliver impactful insights to end users. The knowledge and skills gained from completing this task will serve as a strong base for tackling more advanced projects in data science, machine learning, and software development in the future.
+
+#OUTPUT
+
+<img width="1800" height="956" alt="Image" src="https://github.com/user-attachments/assets/e75ec80d-7c0b-4692-a4f2-66808c04c62d" />
